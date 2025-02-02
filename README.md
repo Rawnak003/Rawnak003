@@ -8,6 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:your-shmrawnak@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
