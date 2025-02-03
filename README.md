@@ -3,7 +3,8 @@
 <h3 align="center">!Flutter Android Application Developer</h3>
 <img align="right" width="400" height="275" src="https://github.com/Rawnak003/Rawnak003/blob/main/971.jpg?ra=true">
 
-- 🌱 I’m currently learning **Flutter**
+# 💫 About Me:
+Software Engineer<br>Studied Computer Science & Engineering<br>Currently learning about Flutter
 
 - 📫 How to reach me **shmrawnak@gmail.com**
 
