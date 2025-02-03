@@ -4,7 +4,8 @@
 <img align="right" width="400" height="275" src="https://github.com/Rawnak003/Rawnak003/blob/main/971.jpg?ra=true">
 
 # 💫 About Me:
-- Software Engineer<br>- Studied Computer Science & Engineering<br>- Currently learning about Flutter
+<h3 align="left">💫 About Me:</h3>
+-- Software Engineer<br>- Studied Computer Science & Engineering<br>- Currently learning about Flutter
 
 - 📫 How to reach me **shmrawnak@gmail.com**
 
