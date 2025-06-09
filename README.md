@@ -11,7 +11,7 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/shm.rawnak.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shm.rawnak.7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/s-m-rawnak-muntasir-831a2a300/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-m-rawnak-muntasir-831a2a300/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rawnak003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-m-rawnak-muntasir-831a2a300/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/venomous_bug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="venomous_bug" height="30" width="40" /></a>
 </p>
 
