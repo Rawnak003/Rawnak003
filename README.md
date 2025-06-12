@@ -1,10 +1,10 @@
 ![MasterHead](https://github.com/Rawnak003/Rawnak003/blob/main/banner.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Rawnak</h1>
-<h3 align="center">!Flutter Android Application Developer</h3>
+<h3 align="center">Flutter Android Application Developer</h3>
 <img align="right" width="400" height="275" src="https://github.com/Rawnak003/Rawnak003/blob/main/971.jpg?ra=true">
 
 <h3 align="left">💫 About Me:</h3>
-- Software Engineer<br>- Studing Computer Science & Engineering<br>- Currently learning about Flutter<br><br>
+- Software Developer<br>- Studing Computer Science & Engineering<br>- Currently learning about Flutter<br><br>
 
 - 📫 reach me **shmrawnak@gmail.com**
 
