@@ -38,7 +38,7 @@ class Rawnak extends Developer {
 
   List<String> currentlyLearning = [
     "Advanced Flutter & Dart",
-    "Firebase Architecture",
+    "AI integration with App",
     "Clean Architecture Patterns",
   ];
 
