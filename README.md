@@ -48,7 +48,7 @@ class Rawnak extends Developer {
 ```
 
 - 🔭 Currently building **Flutter mobile applications**
-- 🌱 Deep-diving into **state management & Firebase**
+- 🌱 Deep-diving into **AI integration with Applications**
 - 💬 Ask me about **Flutter, Dart, C++, competitive programming**
 - 📫 Reach me at **[shmrawnak@gmail.com](mailto:shmrawnak@gmail.com)**
 - ⚡ Fun fact: I solve problems for fun on **Codeforces** 🧩
