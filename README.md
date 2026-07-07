@@ -107,7 +107,7 @@ class Rawnak extends Developer {
 
 ### 🔧 Tools & Platforms
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg](https://www.svgrepo.com/show/439171/github.svg" width="40"/> &nbsp;
+<img src="https://www.svgrepo.com/show/439171/github.svg" width="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40"/>
 
