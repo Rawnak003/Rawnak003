@@ -1,6 +1,6 @@
 <div align="center">
 
-![MasterHead](https://github.com/Rawnak003/Rawnak003/blob/main/banner.jpg?raw=true)
+![MasterHead](https://github.com/Rawnak003/Rawnak003/blob/91ec75492fdd617a5df2fad4f5833bf767c1acfc/banner_v2.png)
 
 </div>
 
